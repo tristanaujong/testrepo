@@ -1,2 +1,3 @@
 # testrepo
-stat 315 repo example
+*stat 315 repo example*
+**italics**
